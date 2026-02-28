@@ -1,0 +1,11 @@
+[package]
+name = "talon-sysinfo"
+version = "1.0.0"
+edition = "2021"
+description = "System information gathering"
+authors = ["FemtoClaw Community"]
+license = "Apache-2.0"
+
+[dependencies]
+femtoclaw-sdk = "1.0"
+sysinfo = "0.30"

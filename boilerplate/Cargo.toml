@@ -1,0 +1,10 @@
+[package]
+name = "talon-boilerplate"
+version = "1.0.0"
+edition = "2021"
+description = "Pre-made project boilerplate templates for quick project starts"
+authors = ["FemtoClaw Community"]
+license = "Apache-2.0"
+
+[dependencies]
+femtoclaw-sdk = "1.0"

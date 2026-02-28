@@ -1,0 +1,12 @@
+[package]
+name = "talon-bitbucket"
+version = "1.0.0"
+edition = "2021"
+description = "Bitbucket Cloud integration for repositories, pull requests, and pipelines"
+authors = ["FemtoClaw Community"]
+license = "Apache-2.0"
+
+[dependencies]
+femtoclaw-sdk = "1.0"
+reqwest = "0.11"
+serde = "1.0"

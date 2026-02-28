@@ -1,0 +1,10 @@
+[package]
+name = "talon-terraform"
+version = "1.0.0"
+edition = "2021"
+description = "Terraform Infrastructure as Code"
+authors = ["FemtoClaw Community"]
+license = "Apache-2.0"
+
+[dependencies]
+femtoclaw-sdk = "1.0"

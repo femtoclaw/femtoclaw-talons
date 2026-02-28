@@ -1,0 +1,10 @@
+[package]
+name = "talon-template"
+version = "1.0.0"
+edition = "2021"
+description = "General purpose template engine for text and file generation"
+authors = ["FemtoClaw Community"]
+license = "Apache-2.0"
+
+[dependencies]
+femtoclaw-sdk = "1.0"

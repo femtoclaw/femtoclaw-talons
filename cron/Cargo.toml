@@ -1,0 +1,11 @@
+[package]
+name = "talon-cron"
+version = "1.0.0"
+edition = "2021"
+description = "Cron job scheduling"
+authors = ["FemtoClaw Community"]
+license = "Apache-2.0"
+
+[dependencies]
+femtoclaw-sdk = "1.0"
+cron = "0.14"

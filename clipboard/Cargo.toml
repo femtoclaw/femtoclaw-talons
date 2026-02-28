@@ -1,0 +1,11 @@
+[package]
+name = "talon-clipboard"
+version = "1.0.0"
+edition = "2021"
+description = "Clipboard management"
+authors = ["FemtoClaw Community"]
+license = "Apache-2.0"
+
+[dependencies]
+femtoclaw-sdk = "1.0"
+arboard = "3.0"

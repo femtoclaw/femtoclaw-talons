@@ -1,0 +1,10 @@
+[package]
+name = "talon-azure-cloud"
+version = "1.0.0"
+edition = "2021"
+description = "Microsoft Azure cloud operations"
+authors = ["FemtoClaw Community"]
+license = "Apache-2.0"
+
+[dependencies]
+femtoclaw-sdk = "1.0"

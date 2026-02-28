@@ -1,0 +1,10 @@
+[package]
+name = "talon-scaffold"
+version = "1.0.0"
+edition = "2021"
+description = "Code scaffolding for generating file structures and patterns"
+authors = ["FemtoClaw Community"]
+license = "Apache-2.0"
+
+[dependencies]
+femtoclaw-sdk = "1.0"
