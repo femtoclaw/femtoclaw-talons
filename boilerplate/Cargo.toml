@@ -1,5 +1,5 @@
 [package]
-name = "talon-boilerplate"
+name = "skill-boilerplate"
 version = "1.0.0"
 edition = "2021"
 description = "Pre-made project boilerplate templates for quick project starts"

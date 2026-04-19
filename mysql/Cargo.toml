@@ -1,5 +1,5 @@
 [package]
-name = "talon-mysql"
+name = "skill-mysql"
 version = "1.0.0"
 edition = "2021"
 description = "MySQL database operations"

@@ -1,48 +1,48 @@
-# Contributing to FemtoClaw Talons
+# Contributing to FemtoClaw Skills
 
-Thank you for your interest in contributing Talons to the FemtoClaw community!
+Thank you for your interest in contributing Skills to the FemtoClaw community!
 
 ## How to Contribute
 
 ### 1. Fork and Clone
 
 ```bash
-git clone https://github.com/your-username/femtoclaw-talons.git
-cd femtoclaw-talons
+git clone https://github.com/your-username/femtoclaw-skills.git
+cd femtoclaw-skills
 ```
 
-### 2. Create Your Talon
+### 2. Create Your Skill
 
-Create a new directory with your talon name:
+Create a new directory with your skill name:
 
 ```bash
-mkdir my-talon
-cd my-talon
+mkdir my-skill
+cd my-skill
 ```
 
-### 3. Add TALON.md
+### 3. Add SKILL.md
 
-Create a `TALON.md` file following the format:
+Create a `SKILL.md` file following the format:
 
 ```yaml
 ---
-name: my-talon
+name: my-skill
 version: 1.0.0
-description: A brief description of what your talon does
+description: A brief description of what your skill does
 author: Your Name
 license: MIT
 tags: [category, keywords]
 ---
 
-# My Talon
+# My Skill
 
-Detailed description of your talon.
+Detailed description of your skill.
 
 ## Requirements
 - List any requirements
 
 ## Usage
-How to use your talon.
+How to use your skill.
 ```
 
 ### 4. Add Supporting Files
@@ -58,11 +58,11 @@ Add any necessary files:
 # Install femtoclaw-registry
 cargo install femtoclaw-registry
 
-# Add your talon
-talon add ./my-talon
+# Add your skill
+skill add ./my-skill
 
 # Verify
-talon list
+skill list
 ```
 
 ### 6. Submit a Pull Request
@@ -71,10 +71,10 @@ talon list
 2. Create a pull request
 3. Wait for review
 
-## Talon Requirements
+## Skill Requirements
 
 ### Must Have
-- Valid `TALON.md` with required fields
+- Valid `SKILL.md` with required fields
 - Clear documentation
 - Working basic functionality
 

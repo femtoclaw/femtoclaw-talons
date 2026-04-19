@@ -1,5 +1,5 @@
 [package]
-name = "talon-matrix"
+name = "skill-matrix"
 version = "1.0.0"
 edition = "2021"
 description = "Matrix protocol chat integration"

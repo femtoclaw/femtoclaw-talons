@@ -1,5 +1,5 @@
 [package]
-name = "talon-clipboard"
+name = "skill-clipboard"
 version = "1.0.0"
 edition = "2021"
 description = "Clipboard management"

@@ -1,5 +1,5 @@
 [package]
-name = "talon-github"
+name = "skill-github"
 version = "1.0.0"
 edition = "2021"
 description = "GitHub integration for issues, PRs, and workflows"

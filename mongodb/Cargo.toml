@@ -1,5 +1,5 @@
 [package]
-name = "talon-mongodb"
+name = "skill-mongodb"
 version = "1.0.0"
 edition = "2021"
 description = "MongoDB operations - documents, collections, aggregations"

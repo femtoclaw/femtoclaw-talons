@@ -1,5 +1,5 @@
 [package]
-name = "talon-gcp"
+name = "skill-gcp"
 version = "1.0.0"
 edition = "2021"
 description = "Google Cloud Platform operations"

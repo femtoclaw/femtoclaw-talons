@@ -1,5 +1,5 @@
 [package]
-name = "talon-gitlab"
+name = "skill-gitlab"
 version = "1.0.0"
 edition = "2021"
 description = "GitLab integration for issues, merge requests, and CI/CD"

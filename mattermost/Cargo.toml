@@ -1,5 +1,5 @@
 [package]
-name = "talon-mattermost"
+name = "skill-mattermost"
 version = "1.0.0"
 edition = "2021"
 description = "Mattermost team chat integration"

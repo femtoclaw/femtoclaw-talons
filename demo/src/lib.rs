@@ -9,7 +9,7 @@ impl Tool for DemoTalon {
     fn execute(&self, call: ToolCall) -> ToolResult {
         match call.tool.as_str() {
             "hello" => {
-                ToolResult::success(serde_json::json!({ "message": "Hello from Demo Talon!" }))
+                ToolResult::success(serde_json::json!({ "message": "Hello from Demo Skill!" }))
             }
             "echo" => {
                 let text = call.args.get("text").and_then(|v| v.as_str()).unwrap_or("");

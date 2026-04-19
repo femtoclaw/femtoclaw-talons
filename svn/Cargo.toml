@@ -1,5 +1,5 @@
 [package]
-name = "talon-svn"
+name = "skill-svn"
 version = "1.0.0"
 edition = "2021"
 description = "Subversion (SVN) version control operations"

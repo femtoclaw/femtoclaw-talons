@@ -1,5 +1,5 @@
 [package]
-name = "talon-git"
+name = "skill-git"
 version = "1.0.0"
 edition = "2021"
 description = "Git operations - commit, push, pull, branch"

@@ -1,5 +1,5 @@
 [package]
-name = "talon-calculator"
+name = "skill-calculator"
 version = "1.0.0"
 edition = "2021"
 description = "Calculator with basic and scientific operations"

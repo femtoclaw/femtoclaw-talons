@@ -1,5 +1,5 @@
 [package]
-name = "talon-starter"
+name = "skill-starter"
 version = "1.0.0"
 edition = "2021"
 description = "Starter template for new FemtoClaw projects"

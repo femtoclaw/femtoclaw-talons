@@ -1,5 +1,5 @@
 [package]
-name = "talon-azure-cloud"
+name = "skill-azure-cloud"
 version = "1.0.0"
 edition = "2021"
 description = "Microsoft Azure cloud operations"

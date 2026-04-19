@@ -1,5 +1,5 @@
 [package]
-name = "talon-docker"
+name = "skill-docker"
 version = "1.0.0"
 edition = "2021"
 description = "Docker container management"

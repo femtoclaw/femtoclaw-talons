@@ -1,5 +1,5 @@
 [package]
-name = "talon-database"
+name = "skill-database"
 version = "1.0.0"
 edition = "2021"
 description = "Database query, backup, and management"

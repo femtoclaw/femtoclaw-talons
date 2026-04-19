@@ -1,8 +1,8 @@
 [package]
-name = "talon-demo"
+name = "skill-demo"
 version = "1.0.0"
 edition = "2021"
-description = "Demo talon for testing and examples"
+description = "Demo skill for testing and examples"
 authors = ["FemtoClaw Community"]
 license = "Apache-2.0"
 

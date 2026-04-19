@@ -1,5 +1,5 @@
 [package]
-name = "talon-cron"
+name = "skill-cron"
 version = "1.0.0"
 edition = "2021"
 description = "Cron job scheduling"

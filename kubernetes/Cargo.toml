@@ -1,5 +1,5 @@
 [package]
-name = "talon-kubernetes"
+name = "skill-kubernetes"
 version = "1.0.0"
 edition = "2021"
 description = "Kubernetes pod, deployment, and service management"

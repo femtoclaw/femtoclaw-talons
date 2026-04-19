@@ -1,5 +1,5 @@
 [package]
-name = "talon-template"
+name = "skill-template"
 version = "1.0.0"
 edition = "2021"
 description = "General purpose template engine for text and file generation"

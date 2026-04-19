@@ -1,5 +1,5 @@
 [package]
-name = "talon-discord"
+name = "skill-discord"
 version = "1.0.0"
 edition = "2021"
 description = "Discord bot and webhook integration"

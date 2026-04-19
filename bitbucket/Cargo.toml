@@ -1,5 +1,5 @@
 [package]
-name = "talon-bitbucket"
+name = "skill-bitbucket"
 version = "1.0.0"
 edition = "2021"
 description = "Bitbucket Cloud integration for repositories, pull requests, and pipelines"

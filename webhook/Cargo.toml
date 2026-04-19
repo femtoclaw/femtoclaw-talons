@@ -1,5 +1,5 @@
 [package]
-name = "talon-webhook"
+name = "skill-webhook"
 version = "1.0.0"
 edition = "2021"
 description = "Generic webhook integration"

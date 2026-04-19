@@ -1,5 +1,5 @@
 [package]
-name = "talon-aws"
+name = "skill-aws"
 version = "1.0.0"
 edition = "2021"
 description = "AWS operations - EC2, S3, Lambda"

@@ -1,5 +1,5 @@
 [package]
-name = "talon-mercurial"
+name = "skill-mercurial"
 version = "1.0.0"
 edition = "2021"
 description = "Mercurial (Hg) distributed version control operations"
